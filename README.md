@@ -1,6 +1,17 @@
 Hubbub
 ======
 
+//
+// File   : publicConfiguration.js
+//
+// Creator: Joseph Gaudreau
+// Created: 2014-04-01
+//
+// Updator: Joseph Gaudreau
+// Updated: 2014-04-28
+//
+
+
 Issues get messy, Hubbub keeps you organized.
 
 [Demo](http://backstopmedia.github.com/hubbub) • [Test Suite](http://backstopmedia.github.com/hubbub/test)
